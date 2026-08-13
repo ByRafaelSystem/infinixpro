@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "url": "https://github.com/ByRafaelSystem/infinixpro/releases/latest/download/InfinixPro.apk",
-  "notes": "• 6 plataformas (ahora con Apple TV)\n• Cada plataforma entra sola\n• Optimización y estabilidad en TV\n• Correcciones varias"
+  "notes": "• Código Downloader para instalar en la TV\n• 6 plataformas (con Apple TV)\n• Cada plataforma entra sola\n• Optimización y estabilidad"
 }
